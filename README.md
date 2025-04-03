@@ -1,3 +1,3 @@
 # GenAI_twitter
 
-First change to test how to push to github
+An app to analyze the character based on their tweets.
