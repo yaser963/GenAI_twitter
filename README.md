@@ -1,3 +1,3 @@
 # GenAI_twitter
 
-removed test
+First change to test how to push to github
