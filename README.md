@@ -1,3 +1,3 @@
 # GenAI_twitter
 
-test test testgit 
+test test test
